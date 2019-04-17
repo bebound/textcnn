@@ -7,3 +7,6 @@ Multi channel implementation accuracy on SST-1:
 |paper|this|
 |---|---|
 |47.4|45.7|
+
+
+blog: https://blog.fromkk.com/post/textcnn-with-pytorch-and-torchtext-on-colab/
