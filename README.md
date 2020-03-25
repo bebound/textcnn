@@ -2,7 +2,7 @@
 
 A PyTorch implementation of [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), which can be trained on google colab. 
 
-blog: https://blog.fromkk.com/post/textcnn-with-pytorch-and-torchtext-on-colab/
+blog: https://www.fromkk.com/posts/textcnn-with-pytorch-and-torchtext-on-colab/
 
 Multi channel implementation accuracy on SST-1:
 
